@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>Bankkredite</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>LZCREDIT_BANKTOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZCREDIT_BANK</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>ZCREDIT_READ_SUMS</FUNCNAME>
+     <REMOTE_CALL>R</REMOTE_CALL>
+     <SHORT_TEXT>Kreditsummen lesen</SHORT_TEXT>
+     <EXPORT>
+      <RSEXP>
+       <PARAMETER>CREDIT_SUMS</PARAMETER>
+       <TYP>ZCREDIT_BANK_SUMS</TYP>
+      </RSEXP>
+     </EXPORT>
+     <DOCUMENTATION>
+      <RSFDO>
+       <PARAMETER>CREDIT_SUMS</PARAMETER>
+       <KIND>P</KIND>
+       <STEXT>Kreditsummen</STEXT>
+      </RSFDO>
+     </DOCUMENTATION>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

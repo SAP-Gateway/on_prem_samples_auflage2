@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZCREDIT</ARBGB>
+    <MASTERLANG>D</MASTERLANG>
+    <STEXT>Kredite</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZCREDIT</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Kreditnummer nicht im Request mitgegeben</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZCREDIT</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Startjahr fehlt</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZCREDIT</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Kreditsumme ist ungültig</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZCREDIT</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Kredit kann nicht eingefügt werden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZCREDIT</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Ungültiger Primärschlüssel</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZCREDIT</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Kredit kann nicht geändert werden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZCREDIT</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Kredit kann nicht gelöscht werden (bereits genehmigt oder ausbezahlt)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZCREDIT</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Kredit wurde inzwischen durch eine andere Sitzung geändert</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZCREDIT</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Kredit ist gerade gesperrt. Bitte später nocheinmal versuchen.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
