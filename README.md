@@ -10,4 +10,4 @@ Verwenden Sie [abapGit](https://dcos.abapgit.org), um die Programme zu importier
 
 This repository contains the listings for the On-Premise systems mentioned in the book SAP Gateway Praxishandbuch, 2 Auflage, 2025.
 ## Installation
-Please use [abapGit](https://dcos.abapgit.org) to import the programs into the BTP.
+Please use [abapGit](https://dcos.abapgit.org) to import the programs into your system.
